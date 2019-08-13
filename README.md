@@ -8,7 +8,7 @@ Build Script
 go build
 ```
 
-use Script
+Use Script
 
 ```
 ./go-storage listObjects -b {{bucekt-name}}
